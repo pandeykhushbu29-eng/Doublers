@@ -90,3 +90,8 @@ it is my second project!
 © 2026 Avyaan Mishra
 
 Released under the **DCA License v1.0**
+
+---
+
+#"Specifications create possibilities. Implementations bring them to life."
+
