@@ -61,8 +61,8 @@ they do not change the meaning or compatibility of the architecture.
 # Project History
 
 The first public version of the Doublers ISA and DCA was created by
-**Avyaan Mishra** (also known as **Doub.creator_00001**) in **2026**,
-when the author was **11 years old**.
+**Avyaan Mishra** (Creator name is **Doub.creator_00001**) in **2026**,
+when the author was **11 years old**.His Country of Origin is **INDIA**
 
 ---
 
