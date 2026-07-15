@@ -84,9 +84,47 @@ when the author was **11 years old**.His Country of Origin is **INDIA**
 
 NOTE:
 visit https://github.com/pandeykhushbu29-eng/Dob-VCS 
-it is my second project!
+and
+ https://github.com/pandeykhushbu29-eng/DULO
+ these are my second and third project, respectively!
 
 ---
+
+ ## Contributing
+
+Doublers is intended to be a community-driven open Instruction Set Architecture (ISA) specification.
+
+The long-term evolution of this specification does **not** depend on the continued involvement of the original author.
+
+If the original author becomes inactive or unavailable, contributors are encouraged to continue improving the specification through community collaboration.
+
+Future maintainers may:
+
+- Review and merge specification improvements.
+- Publish revised specification versions.
+- Expand the ISA while preserving compatibility whenever practical.
+- Maintain reference implementations, assemblers, compilers, simulators, and compliance suites.
+
+Contributors should strive to ensure that changes remain:
+
+- Technically justified.
+- Well documented.
+- Backward compatible whenever practical.
+- Consistent with the architectural goals of Doublers.
+- Suitable for independent implementation.
+
+## Governance
+
+Doublers has no permanently required maintainer.
+
+The original author initiated the project, but the specification is intended to evolve through community stewardship.
+
+Should the original author become inactive or permanently unavailable, the community is encouraged to continue development by establishing new maintainers through open discussion and transparent decision-making.
+
+No individual is required for Doublers to continue evolving.
+
+---
+
 © 2026 Avyaan Mishra
 
 Released under the **DCA License v1.0**
