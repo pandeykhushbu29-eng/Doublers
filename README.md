@@ -131,5 +131,5 @@ Released under the **DCA License v1.0**
 
 ---
 
-#"Specifications create possibilities. Implementations bring them to life."
+# "Specifications create possibilities. Implementations bring them to life."
 
